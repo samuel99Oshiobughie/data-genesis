@@ -1,0 +1,19 @@
+STEPS FOR MACHINE LEARNING PROJECT
+
+1. Problem Definition
+    "what problem are we trying to solve?" -> supervised, unsupervised, classification , regression.
+
+2. Data
+    "What kind of data do we have ?" -> structured{rows, colums}, unstructured{images, audio}
+
+3. Evaluation
+    "define what success means to us?" -> e.g 96% accuracy
+
+4. Features
+    "what do we already know about the data"
+
+5. Modelling
+    "Based on our problem and data, what model should we use?"
+
+6. Experimentation
+    "How could we improve / what can we try next?"
