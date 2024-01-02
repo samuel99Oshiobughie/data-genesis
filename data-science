@@ -17,3 +17,15 @@ STEPS FOR MACHINE LEARNING PROJECT
 
 6. Experimentation
     "How could we improve / what can we try next?"
+
+
+Main types of machine LEARNING
+1. Supervised learning
+    a. classification -> "is this one thing or the other" { binary classification, multi class classification}
+    b. regression -> "Trying to predict a number"
+
+2. unsupervised learning
+    a. clustering
+
+3. Transfer learning
+    "leveraging what one machine model has learnt in another machine learning"
